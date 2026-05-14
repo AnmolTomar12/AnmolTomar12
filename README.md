@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Anmol Tomar
 
-<!--
-**AnmolTomar12/AnmolTomar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Frontend Developer
+- 🎨 Interested in UI/UX Design
+- ⚡ Learning React & Modern Web Development
+- 🌱 Building projects and improving every day
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Project
+- CanaryAI UI/UX Frontend
+
+## 📫 Connect With Me
+- GitHub: https://github.com/AnmolTomar12
+
+## 📊 GitHub Stats
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmolTomar12&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnmolTomar12&theme=tokyonight)
