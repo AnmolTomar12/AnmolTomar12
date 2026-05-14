@@ -15,6 +15,7 @@
 
 ## 📌 Current Project
 - CanaryAI UI/UX Frontend
+- AI-System-for-Detecting-Unknown-Cyber-Threats
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/AnmolTomar12
