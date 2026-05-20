@@ -21,10 +21,6 @@
 - 📊 Interested in building **AI-driven predictive systems and real-world applications**
 - ⚡ Fun fact: I enjoy solving DSA problems and building practical AI projects
 
-
-![Snake animation](https://raw.githubusercontent.com/AnmolTomar12/AnmolTomar12/output/github-contribution-grid-snake.svg)
-
-![Snake animation](https://github.com/AnmolTomar12/AnmolTomar12/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🛠️ Tech Stack
@@ -142,7 +138,30 @@
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats & Activity
+## 📈 GitHub Stats
+
+[![Anmol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnmolTomar12&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnmolTomar12&show_icons=true&theme=tokyonight" alt="📈 GitHub Stats" />
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolTomar12&theme=tokyonight" alt="🔥streak stats" />
+</p>
+
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnmolTomar12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnmolTomar12&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 📫 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/anmoltomar1222" target="blank">
@@ -161,25 +180,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-[![Anmol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnmolTomar12&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnmolTomar12&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolTomar12&theme=tokyonight" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnmolTomar12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnmolTomar12&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
----
-
-## ✨ Quote
+# ✨ Quote
 
 > "Continuous learning and consistent building create future-ready developers."
