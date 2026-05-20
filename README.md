@@ -147,24 +147,11 @@
 <a href="https://github.com/AnmolTomar12" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-
-# 📫 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="mailto:anmoltomar1222@gmail.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
-
-<a href="https://github.com/AnmolTomar12">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
+<a href="https://leetcode.com/u/its_anmoltomar/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40"/>
 </a>
 </p>
 
