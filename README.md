@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anmol Tomar</h1>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Anmol%20Tomar&fontSize=40&fontColor=ffffff" />
+</p>
 <h3 align="center">AI/ML Enthusiast | Data Analyst | Full Stack Learner | Python Developer</h3>
 
 <p align="center">
@@ -24,12 +27,12 @@
 
 ### 👨‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,postgresql,mongodb,mysql" />
 </p>
 
 ### 🤖 AI/ML & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,matplotlib" />
 </p>
 
 ### 📚 AI/ML Technologies
@@ -51,12 +54,12 @@
 
 ### 🚀 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,docker,linux,postman,firebase,vercel,idea" />
 </p>
 
 ---
@@ -143,6 +146,25 @@
 </a>
 <a href="https://github.com/AnmolTomar12" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/AnmolTomar12">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
 </a>
 </p>
 
