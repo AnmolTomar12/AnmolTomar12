@@ -32,7 +32,13 @@
 
 ### 🤖 AI/ML & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
 </p>
 
 ### 📚 AI/ML Technologies
