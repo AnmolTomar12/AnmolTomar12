@@ -171,16 +171,19 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/anmoltomar1222" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 <a href="https://github.com/AnmolTomar12" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 <a href="mailto:anmoltomar1222@gmail.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 <a href="https://leetcode.com/u/its_anmoltomar/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40"/>
+<img align="center" src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
+<a href="https://readdy.link/preview/8944ad72-3579-4f0d-b918-c8c7d705332d/2153680" target="_blank">
+<img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="80"/>
 </a>
 </p>
 
