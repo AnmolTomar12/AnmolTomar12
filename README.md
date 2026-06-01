@@ -191,4 +191,4 @@
 
 # ✨ Quote
 
-> "Continuous learning and consistent building create future-ready developers."
+> "Learn. Build. Innovate. Repeat."
