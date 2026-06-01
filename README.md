@@ -191,4 +191,4 @@
 
 # ✨ Quote
 
-> "Learn. Build. Innovate. Repeat."
+> "Learn. Build. Innovate. Repeat. for Shaping the Future with Code, AI, and Curiosity"
